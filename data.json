@@ -1,0 +1,367 @@
+{
+    "Name": "Revelation",
+    "Subdivision": [
+        {
+            "Name": "Sacred Tradition"
+        },
+        {
+            "Name": "Sacred Scripture",
+            "Alternative name": "Holy Bible",
+            "Subdivision": [
+                {
+                    "Name": "Old Testament",
+                    "Subdivision": [
+                        {
+                            "Name": "Pentateuch",
+                            "Alternative name": "Five books of Moses",
+                            "Subdivision": [
+                                {
+                                    "Name": "Genesis",
+                                    "Parts": [
+                                        {
+                                            "Name": "Primeval history"
+                                        },
+                                        {
+                                            "Name": "Ancestral history"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Exodus"
+                                },
+                                {
+                                    "Name": "Leviticus"
+                                },
+                                {
+                                    "Name": "Numbers"
+                                },
+                                {
+                                    "Name": "Deuteronomy"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Historical books",
+                            "Subdivision": [
+                                {
+                                    "Name": "Joshua"
+                                },
+                                {
+                                    "Name": "Judges"
+                                },
+                                {
+                                    "Name": "Ruth"
+                                },
+                                {
+                                    "Name": "First Samuel"
+                                },
+                                {
+                                    "Name": "Second Samuel"
+                                },
+                                {
+                                    "Name": "First Kings"
+                                },
+                                {
+                                    "Name": "Second Kings"
+                                },
+                                {
+                                    "Name": "First Chronicles"
+                                },
+                                {
+                                    "Name": "Second Chronicles"
+                                },
+                                {
+                                    "Name": "Ezra"
+                                },
+                                {
+                                    "Name": "Nehemiah"
+                                },
+                                {
+                                    "Name": "Tobit"
+                                },
+                                {
+                                    "Name": "Judith"
+                                },
+                                {
+                                    "Name": "Esther"
+                                },
+                                {
+                                    "Name": "1 Maccabees"
+                                },
+                                {
+                                    "Name": "2 Maccabees"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Wisdom books",
+                            "Subdivision": [
+                                {
+                                    "Name": "Job"
+                                },
+                                {
+                                    "Name": "Psalms",
+                                    "Parts": [
+                                        {
+                                            "Name": "Hymns"
+                                        },
+                                        {
+                                            "Name": "Laments",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "Communal laments"
+                                                },
+                                                {
+                                                    "Name": "Individual laments"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Royal psalms"
+                                        },
+                                        {
+                                            "Name": "Thanksgiving psalms",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "Communal thanksgiving psalms"
+                                                },
+                                                {
+                                                    "Name": "Individual thanksgiving psalms"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Wisdom psalms"
+                                        },
+                                        {
+                                            "Name": "Pilgrimage psalms"
+                                        },
+                                        {
+                                            "Name": "Other psalms"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Proverbs"
+                                },
+                                {
+                                    "Name": "Ecclesiastes"
+                                },
+                                {
+                                    "Name": "Song of Songs"
+                                },
+                                {
+                                    "Name": "Wisdom"
+                                },
+                                {
+                                    "Name": "Sirach",
+                                    "Alternative name": "Ecclesiasticus"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Prophets",
+                            "Subdivision": [
+                                {
+                                    "Name": "Major prophets",
+                                    "Subdivision": [
+                                        {
+                                            "Name": "Isaiah"
+                                        },
+                                        {
+                                            "Name": "Jeremiah"
+                                        },
+                                        {
+                                            "Name": "Lamentations"
+                                        },
+                                        {
+                                            "Name": "Baruch"
+                                        },
+                                        {
+                                            "Name": "Ezekiel"
+                                        },
+                                        {
+                                            "Name": "Daniel"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Minor prophets",
+                                    "Subdivision": [
+                                        {
+                                            "Name": "Hosea"
+                                        },
+                                        {
+                                            "Name": "Joel"
+                                        },
+                                        {
+                                            "Name": "Amos"
+                                        },
+                                        {
+                                            "Name": "Obadiah"
+                                        },
+                                        {
+                                            "Name": "Jonah"
+                                        },
+                                        {
+                                            "Name": "Micah"
+                                        },
+                                        {
+                                            "Name": "Nahum"
+                                        },
+                                        {
+                                            "Name": "Habakkuk"
+                                        },
+                                        {
+                                            "Name": "Zephaniah"
+                                        },
+                                        {
+                                            "Name": "Haggai"
+                                        },
+                                        {
+                                            "Name": "Zechariah"
+                                        },
+                                        {
+                                            "Name": "Malachi"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }                      
+                    ]
+                },
+                {
+                    "Name": "New Testament",
+                    "Subdivision": [
+                        {
+                            "Name": "Canonical gospels",
+                            "Subdivision": [
+                                {
+                                    "Name": "Gospel of Matthew"
+                                },
+                                {
+                                    "Name": "Gospel of Mark"
+                                },
+                                {
+                                    "Name": "Gospel of Luke"
+                                },
+                                {
+                                    "Name": "Gospel of John"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Acts of the the Apostles"
+                        },
+                        {
+                            "Name": "Epistles",
+                            "Subdivision": [
+                                {
+                                    "Name": "Pauline epistles",
+                                    "Subdivision": [
+                                        {
+                                            "Name": "Authentic Epistles",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "Galatians"
+                                                },
+                                                {
+                                                    "Name": "First Thessalonians"
+                                                },
+                                                {
+                                                    "Name": "First Corinthians"
+                                                },
+                                                {
+                                                    "Name": "Second Corinthians"
+                                                },
+                                                {
+                                                    "Name": "Romans"
+                                                },
+                                                {
+                                                    "Name": "Philippians"
+                                                },
+                                                {
+                                                    "Name": "Philemon"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Pseudoepigraphic Epistles",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "First Timothy"
+                                                },
+                                                {
+                                                    "Name": "Second Timothy"
+                                                },
+                                                {
+                                                    "Name": "Titus"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Doubtful Epistles",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "Second Thessalonians"
+                                                },
+                                                {
+                                                    "Name": "Colossians"
+                                                },
+                                                {
+                                                    "Name": "Ephesians"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Catholic epistles",
+                                    "Subdivision": [
+                                        {
+                                            "Name": "Epistle of James"
+                                        },
+                                        {
+                                            "Name": "Petrine Epistles",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "First Epistle of Peter"
+                                                },
+                                                {
+                                                    "Name": "Second Epistle of Peter"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Johannine Epistles",
+                                            "Subdivision": [
+                                                {
+                                                    "Name": "First Epistle of John"
+                                                },
+                                                {
+                                                    "Name": "Second Epistle of John"
+                                                },
+                                                {
+                                                    "Name": "Third Epistle of John"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Name": "Epistle of Jude"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Epistle to the Hebrews"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Book of Revelation"
+                        }
+                    ]
+                }                
+            ]
+        }
+    ]
+}

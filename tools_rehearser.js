@@ -134,7 +134,7 @@ function startLevel(level) {
     document.getElementsByTagName("BODY")[0].innerHTML = level_page;
     setEnter();
 
-    fetch("./data_anatomy.json")
+    fetch("./data.json")
 
     .then(function(response){
         console.log("- > File found and accessed");
@@ -180,9 +180,9 @@ function prepareComponents(level) {
     console.log("- > Preparing components");
 
     if (level == 1) {
-        var explorable_array = [original_dictionary["Subdivision"][0]];
-    } else if (level == 2) {
         var explorable_array = [original_dictionary["Subdivision"][1]];
+    } else if (level == 2) {
+        var explorable_array = [original_dictionary["Subdivision"][0]];
     } else {
         var explorable_array = [original_dictionary];
     };
