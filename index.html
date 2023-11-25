@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <meta name="theme-color" content="limegreen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>AnatoMe: Drill your anatomy!</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+<body onclick="openFullscreen()">
+
+    <script type="text/javascript" src="tools_rehearser.js"></script>
+
+    <div class="top-menu">
+
+        <div class="menu-item" id="order" onclick="toPage('order')">
+
+            Hear
+
+        </div>
+
+        <div class="menu-item" id="recognise" onclick="toPage('recognise')">
+
+            See
+
+        </div>
+
+        <div class="menu-item" id="do" onclick="toPage('do')">
+
+            Do
+
+        </div>
+
+    </div>
+
+    <div class="main-container" id="main-container">
+
+        <div class="card" onclick="startLevel(1)">
+
+            <div class="bubble">
+                <img src="./Images/Skeleton.png">
+            </div>
+
+            <div class="text-right">
+
+                <H1> Bones </H1>
+                <p> & other hard problems </p>
+
+            </div>
+
+        </div>
+        
+        <div class="card" onclick="startLevel(2)">
+
+            <div class="bubble">
+                <img src="./Images/Skeleton.png">
+            </div>
+
+            <div class="text-right">
+
+                <H1> Muscles </H1>
+                <p> & other moving subjects</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

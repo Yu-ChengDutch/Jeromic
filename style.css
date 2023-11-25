@@ -1,0 +1,347 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI';
+}
+
+/* Define fonts */
+
+h1 {
+    font-weight: bolder;
+    font-size: 6vw;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 4vw;
+    color: white
+}
+
+p {
+    font-size: 4vw;
+}
+
+.main-card p {
+    color: white
+}
+
+.title-card {
+    width: 90vw;
+    height: 10vh;
+    text-align: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    margin: 0px;
+    background-color: limegreen;
+    color: white
+}
+
+/* Chapter */
+
+.chapter {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+
+/* Top menu */
+
+.top-menu {
+    height: 15vh;
+    background: lightblue;
+    box-shadow: 0px 0.5vh 2vh 0.5vh rgba(173, 216, 230, 0.753);
+    margin-bottom: 5vh;
+    border-bottom-left-radius: 2.5vh;
+    border-bottom-right-radius: 2.5vh;
+    position: relative;
+}
+
+.menu-item {
+    color: white;
+    font-size: 3vh;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    width: 25vw;
+    padding-bottom: 2vh;
+    margin-left: 7vw;
+    margin-right: 0vw;
+    text-align: center;
+    border-bottom-width: 1vh;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    transition-duration: 0.5s;
+}
+
+#order {
+    margin-left: 7vw;
+    transition-duration: 0.5s;
+    box-shadow: 0px 1vh 2vh 1vh rgba(173, 216, 230, 0.753);
+    padding-bottom: 3vh;
+    border-bottom-width: 2vh;
+}
+
+#recognise {
+    margin-left: 37vw;
+}
+
+#do {
+    margin-left: 67vw;
+}
+
+/* Dividers */
+
+.inset {
+    text-align: center;
+}
+
+.inset > p {
+    text-shadow: 0px 0.4vh 0.4vh #fff, 0px 0px 0px lightgrey, 0px 0.4vh 0.4vh white;
+    font-size: 8vw;
+    font-weight: 1000;
+    color: rgba(128, 128, 128, 0.46);
+}
+
+/* The cards */
+
+.card {
+    /* Add shadows */
+    background-color: lightgreen;
+    box-shadow: 0px 2vh 2vh 0.25vh rgba(144, 238, 144, 0.6);
+    display: grid;
+    width: 65vw;
+    padding: 5vw;
+    margin-left: 10vw;
+    margin-bottom: 5vw;
+    margin-top: 5vw;
+    border-radius: 5vw;
+    transition-duration: 0.5s;
+
+}
+
+.card:hover {
+    transition-duration: 0.5s;
+    box-shadow: 2vw 2vh 2vh 0.25vh rgba(144, 238, 144, 0.6);
+    margin-left: 12vw;
+    width: 70vw;
+}
+
+.card:hover > .bubble > img {
+    width: 15vw;
+    margin-left: 3vw;
+    transition-duration: 0.5s;
+
+}
+
+.card:hover > .bubble {
+    box-shadow: inset 1vw 1.5vh 1.5vh 0.25vh rgba(144, 238, 144, 0.602);
+}
+
+.card:active {
+    background-color: lightcoral;
+    transition-duration: 0.25s;
+    box-shadow: 2vw 2vh 2vh 0.25vh rgba(240, 128, 128, 0.596);
+}
+
+.card:active > .bubble {
+    box-shadow: inset 1vw 1.5vh 1.5vh 0.25vh rgba(240, 128, 128, 0.599);
+    transition-duration: 0.25s;
+}
+
+.bubble {
+    grid-column: 1;    
+    background-color: white;
+
+    width: 25vw;
+    border-radius: 15vw;
+
+    transition-duration: 0.5s;
+
+    box-shadow: inset 0px 1.5vh 1.5vh 0.25vh rgba(144, 238, 144, 0.602);
+}
+
+.bubble > img {
+    transition-duration: 0.5s;
+    width: 15vw;
+    margin: 5vw;
+}
+
+.text-right {
+    grid-column: 2;
+    padding-top: 4vw;
+    margin-left: 2vw;
+    text-align: left;
+}
+
+.text-right p {
+    font-size: 3vw;
+    font-weight: 300;
+}
+
+.text-right H1 {
+    font-size: 5vw;
+    color: white;
+    font-weight: 5vw;
+    text-shadow: inset 0.1vw 0.15vh 0.15vh 0.0025vh rgba(144, 238, 144, 0.602);
+}
+
+#right {
+    margin-left: 10vw;
+}
+
+#left {
+    margin-left: 15vw;
+}
+
+
+#active:hover {
+    box-shadow: 0px 2vh rgba(0, 128, 0, 1);
+    transition: 0.3s;
+}
+
+/* Links */
+a {
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover, a:active {
+    color: gray;
+    transition: 0.3s;
+}
+
+/* Doing the whole question bit */
+
+.question-card {
+    width: 60vw;
+    height: 50vh;
+    text-align: center;
+    padding-top:1vh;
+    padding-bottom:1vh;
+    margin-left: 19vw;
+    margin-top: 10vh;
+    font-size: 2.5vw;
+}
+
+.question-title-card {
+    color: white;
+    height: 18vh;
+    width: 60vw;
+    border-radius: 5vw;
+    padding-top: 8vh;
+    padding-bottom: 5vh;
+    box-shadow: 0px 1.5vh rgba(0, 128, 0, 1);
+    background-color: limegreen;
+}
+
+#text-field {
+    width: 60vw;
+    height: 10vh;
+    font-weight: bold;
+    font-size: 2.5vw;
+    color: black;
+    margin-top: 5vh;
+    padding-left: 5vw;
+    padding-right:5vw;
+    border-radius: 5vw;
+}
+
+.button {
+    box-shadow: 0px 1.5vh rgb(60, 60, 60);
+    background-color: grey;
+    height: 6vh;
+    border-radius: 5vw;
+    font-weight: bold;
+    font-size: 2.5vw;
+    color: white;
+    margin-top: 2.5vh;
+}
+
+.button:active {
+    background-color: lightgray;
+}
+
+#check-button {
+    width: 60vw;
+}
+
+#enter-button {
+    width: 45vw;
+    display: inline-block;
+}
+
+#expand-button {
+    width: 45vw;
+    display: inline-block;
+}
+
+#active-button {
+    box-shadow: 0px 1.5vh rgba(0, 128, 0, 1);
+    background-color: limegreen;
+    width: 50vw;
+    height: 5vh;
+    border-radius: 5vw;
+    font-weight: bold;
+    font-size: 2.5vw;
+    color: white;
+    margin-top: 2.5vh;
+}
+
+#remark-card {
+    color: black;
+    height: 18vh;
+    width: 60vw;
+    border-radius: 5vw;
+    padding-top: 8vh;
+    padding-bottom: 5vh;
+    background-color: white;
+}
+
+
+/* The Ogham bar and related things*/
+
+.ogham-bar {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 10vh;
+}
+
+.ogham-zero {
+    float: left;
+    background-color: grey;
+    box-shadow: 0px 1.5vh rgb(60, 60, 60);
+    width: 20vw;
+    height: 5vh;
+    padding: 0px;
+}
+
+.ogham-one {
+    float: left;
+    box-shadow: 0px 1.5vh rgba(0, 128, 0, 1);
+    background-color: limegreen;
+    width: 20vw;
+    height: 6vh;
+    padding: 0px;
+}
+
+.ogham-two {
+    
+    height: 7vh;
+}
+
+.ogham-three {
+    height: 8vh;
+}
+
+.ogham-four {
+    height: 9vh;
+}
+
+.ogham-five {
+    height: 10vh;
+}
+
