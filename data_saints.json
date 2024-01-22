@@ -1,0 +1,375 @@
+{
+    "Name": "All saints",
+    "Subdivision": [
+        {
+            "Name": "Apostles",
+            "Subdivision": [
+                {
+                    "Name": "Saint Paul",
+                    "Century born": "First"
+                },
+                {
+                    "Name": "Saint Peter",
+                    "Century born": "First",
+                    "Country born": "Israel"
+                }
+            ]
+        },
+        {
+            "Name": "Evangelists",
+            "Subdivision": [
+                
+            ]
+        },
+        {
+            "Name": "Martyrs",
+            "Subdivision": [
+                {
+                    "Name": "Saint Pope Fabian",
+                    "Century born": "Third"
+                },
+                {
+                    "Name": "Saint Sebastian",
+                    "Century born": "Third"
+                },
+                {
+                    "Name": "Saint Vincent the Deacon",
+                    "Alternative name": "Saint Vincent of Saragossa",
+                    "Century born": "Third"
+                },
+                {
+                    "Name": "Saint Blaise of Sebaste",
+                    "Group": "14 holy helpers",
+                    "Century born": "Third",
+                    "Country born": "Armenia",
+                    "Patronage": ["Throatache", "Domestic animals"]
+                },
+                {
+                    "Name": "Saint Agatha of Sicily",
+                    "Century born": "Third",
+                    "Country born": "Italy"
+                },
+                {
+                    "Name": "Saint Paul Miki",
+                    "Group": "26 martyrs of Japan",
+                    "Century born": "Sixteenth",
+                    "Country born": "Japan"
+                },
+                {
+                    "Name": "Saint Polycarp",
+                    "Century born": "First",
+                    "Country born": "Greece",
+                    "Group": "Apostolic fathers"
+                },
+                {
+                    "Name": "Saint Clement of Rome",
+                    "Alternative name": "Saint Pope Clement I",
+                    "Century born": "First",
+                    "Country born": "Italy",
+                    "Group": "Apostolic fathers"
+                },
+                {
+                    "Name": "Saint Ignatius of Antioch",
+                    "Century born": "First",
+                    "Country born": "Greece",
+                    "Group": "Apostolic fathers"
+                },
+                {
+                    "Name": "Saint Stanislaus the Martyr",
+                    "Alternative name": "Saint Stanislaus of Szczepanów",
+                    "Century born": "Eleventh",
+                    "Country born": "Poland"
+                },
+                {
+                    "Name": "Saint Pope Martin I",
+                    "Century born": "Sixth",
+                    "Country born": "Italy",
+                    "Remark": "Last pope to be recognised as martyr"
+                },
+                {
+                    "Name": "Saint Adalbert of Prague",
+                    "Alternative name": "Saint Vojtech",
+                    "Century born": "Tenth",
+                    "Country born": "Czechoslovakia"
+                },
+                {
+                    "Name": "Saint George of Lydda",
+                    "Century born": "Third",
+                    "Country born": "Turkey",
+                    "Patronage": ["Domestic animals", "Herpetic diseases", "Soldiers"]
+                },
+                {
+                    "Name": "Saint Fidelis of Sigmaringen",
+                    "Century born": "Sixteenth",
+                    "Country born": "Germany"
+                },
+                {
+                    "Name": "Saint Agathius of Byzantium",
+                    "Century born": "Third",
+                    "Country born": "Greece",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Headache"]
+                },
+                {
+                    "Name": "Saint Barbara",
+                    "Century born": "Third",
+                    "Country born": "Greece",
+                    "Group":"14 holy helpers",
+                    "Patronage": ["Fever", "Sudden death", "Lightning", "Fire", "Builders", "Miners"]
+
+                },
+                {
+                    "Name": "Saint Catherine of Alexandria",
+                    "Century born": "Third",
+                    "Country born": "Egypt",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Sudden death", "Students", "Preachers"]
+                },
+                {
+                    "Name": "Saint Christopher",
+                    "Country born": "Israel",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Bubonic plague", "Travellers"]
+                },
+                {
+                    "Name": "Saint Cyriacus",
+                    "Alternative name": "Saint Cyriac",
+                    "Century born": "Third",
+                    "Country born": "Italy",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Diseases of the eye", "Demonic possession"]
+                },
+                {
+                    "Name": "Saint Denis of Paris",
+                    "Century born": "Third",
+                    "Country born": "France",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Headache", "Demonic possession"]
+                },
+                {
+                    "Name": "Saint Erasmus of Formia",
+                    "Alternative name": "Saint Elmo",
+                    "Century born": "Third",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["GI conditions", "Domestic animals", "Sailors"]
+                },
+                {
+                    "Name": "Saint Eustace",
+                    "Century born": "First",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Family discord", "Fire", "Hunters", "Trappers", "Trouble"]
+                },
+                {
+                    "Name": "Saint Margaret of Antioch",
+                    "Century born": "Third",
+                    "Country born": "Greece",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Childbirth", "Backache"]
+                },
+                {
+                    "Name": "Saint Pantaleon",
+                    "Century born": "Third",
+                    "Country born": "Greece",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Physicians", "Midwives", "Domestic animals", "Cancer", "Tuberculosis"]
+                },
+                {
+                    "Name": "Saint Vitus",
+                    "Century born": "Third",
+                    "Country born": "Italy",
+                    "Group": "14 holy helpers",
+                    "Patronage": ["Epilepsy", "Chorea", "Lightning", "Animal bites", "Storms", "Domestic animals"]
+                }
+            ]
+        },
+        {
+            "Name": "Confessors",
+            "Subdivision": [
+                {
+                    "Name": "Confessor Bishops",
+                    "Subdivision": [
+                        {
+                            "Name": "Saint Timothy of Ephesus",
+                            "Century born": "First"
+                        },
+                        {
+                            "Name": "Saint Titus",
+                            "Century born": "First"
+                        },
+                        {
+                            "Name": "Saint Ansgar",
+                            "Alternative name": "Saint Oscar",
+                            "Century born": "Ninth",
+                            "Country born": "Germany"
+                        },
+                        {
+                            "Name": "Saint Papias of Hierapolis",
+                            "Century born": "First",
+                            "Country born": "Greece",
+                            "Group": "Apostolic fathers"
+                        },
+                        {
+                            "Name": "Saint Quadratus of Athens",
+                            "Century born": "First",
+                            "Country born": "Greece",
+                            "Group": "Apostolic fathers"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Regular confessors",
+                    "Subdivision": [
+                        {
+                            "Name": "Religious confessors",
+                            "Subdivision": [
+                                {
+                                    "Name": "Saint Anthony Abbot",
+                                    "Alternative name": "Saint Anthony the Great",
+                                    "Century born": "Third"
+                                },
+                                {
+                                    "Name": "Saint John Bosco",
+                                    "Century born": "Nineteenth",
+                                    "Country born": "Italy"
+                                },
+                                {
+                                    "Name": "Saint Jerome Aemilian",
+                                    "Century born": "Fifteenth",
+                                    "Country born": "Italy"
+                                },
+                                {
+                                    "Name": "Saint John of God",
+                                    "Century born": "Fifteenth",
+                                    "Country born": "Portugal"
+                                },
+                                {
+                                    "Name": "Saint Turibius of Mogrovejo",
+                                    "Century born": "Sixteenth",
+                                    "Country born": "Spain"
+                                },
+                                {
+                                    "Name": "Saint Pope Pius V",
+                                    "Century born": "Sixteenth",
+                                    "Country born": "Italy",
+                                    "Remark": "Founder of the Tridentine Mass"
+                                },
+                                {
+                                    "Name": "Saint Giles the Hermit",
+                                    "Century born": "Seventh",
+                                    "Country born": "France",
+                                    "Group": "14 holy helpers",
+                                    "Patronage": ["Plague", "Epilepsy", "Mental illness", "Nightmares", "Confession", "Beggars"]
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Lay confessors",
+                            "Subdivision": [
+                                {
+                                    "Name": "Saint Casimir Jagiellon",
+                                    "Century born": "Fifteenth",
+                                    "Country born": "Poland"
+                                },
+                                {
+                                    "Name": "Saint Joseph"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Doctors of the Church",
+            "Subdivision": [
+                {
+                    "Name": "Saint Basil the Great",
+                    "Alternative name": "Saint Basil of Caesarea",
+                    "Century born": "Fourth"
+                },
+                {
+                    "Name": "Saint Gregory the Theologian",
+                    "Alternative name": "Saint Gregory Nazianzen",
+                    "Century born": "Fourth"
+                },
+                {
+                    "Name": "Saint Hilary of Poitiers",
+                    "Alternative name": "Hammer of the Arians",
+                    "Century born": "Fourth"
+                },
+                {
+                    "Name": "Saint Francis de Sales",
+                    "Century born": "Sixteenth"
+                },
+                {
+                    "Name": "Saint Peter Damian",
+                    "Century born": "Eleventh",
+                    "Country born": "Italy"
+                },
+                {
+                    "Name": "Saint Gregory of Narek",
+                    "Alternative name": "Saint Grigor Narekatsi",
+                    "Century born": "Tenth",
+                    "Country born": "Armenia"
+                },
+                {
+                    "Name": "Saint Cyril of Jerusalem",
+                    "Century born": "Fourth",
+                    "Country born": "Israel"
+                },
+                {
+                    "Name": "Saint Catherine of Siena",
+                    "Century born": "Fourteenth",
+                    "Country born": "Italy"
+                }
+            ]
+        },
+        {
+            "Name": "Virgins",
+            "Definition": "Female saints who were known to be virgins or were never married",
+            "Subdivision": [
+                {
+                    "Name": "Saint Mary",
+                    "Century born": "First"
+                },
+                {
+                    "Name": "Saint Angela Merici",
+                    "Century born": "Fifteenth",
+                    "Country born": "Italy"
+                },
+                {
+                    "Name": "Saint Josephine Bakhita",
+                    "Century born": "Nineteenth",
+                    "Country born": "Sudan"
+                },
+                {
+                    "Name": "Saint Scholastica",
+                    "Century born": "Fifth",
+                    "Country born": "Italy"
+                }                
+            ]
+        },
+        {
+            "Name": "Holy women",
+            "Definition": "Married female saints",
+            "Subdivision": [
+                {
+                    "Name": "Saint Perpetua",
+                    "Century born": "Second",
+                    "Country born": "Tunisia"
+                },
+                {
+                    "Name": "Saint Felicity",
+                    "Century born": "Second",
+                    "Country born": "Tunisia"
+                },
+                {
+                    "Name": "Saint Frances of Rome",
+                    "Alternative name": "Saint Frances Bussa de' Leoni",
+                    "Century born": "Fourteenth",
+                    "Country born": "Italy"
+                }
+            ]
+        }
+    ]
+}
